@@ -1,3 +1,15 @@
+for installation 👉👇👉👇
+apt update && apt upgrade
+ pkg install python
+ pkg install python2
+ pkg install git
+ pkg install figlet
+git clone https://github.com/yourdadg/DG4
+cd DG4
+python2 DG5.py
+
+use DG5.py for better 
+
 My Little TG Chanel 👉👉👉
 https://t.me/yourdadDG
 suuport me you all 🙂🥰
